@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "hola_mundo_esp32",
+			"path": "../../../../../hola_mundo_esp32"
+		},
+		{
+			"name": "hola_mundo_esp32",
+			"path": "../../../Downloads/hola_mundo_esp32"
+		}
+	],
+	"settings": {}
+}
